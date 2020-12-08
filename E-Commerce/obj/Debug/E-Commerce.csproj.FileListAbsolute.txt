@@ -1,0 +1,7 @@
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\bin\Debug\E-Commerce.exe.config
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\bin\Debug\E-Commerce.exe
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\bin\Debug\E-Commerce.pdb
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csprojAssemblyReference.cache
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\obj\Debug\E-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\obj\Debug\E-Commerce.exe
+C:\Users\53433\source\repos\E-Commerce\E-Commerce\obj\Debug\E-Commerce.pdb
